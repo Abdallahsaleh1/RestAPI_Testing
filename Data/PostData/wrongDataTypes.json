@@ -1,0 +1,11 @@
+{
+    "firstname": 77,
+    "lastname": "Jones",
+    "totalprice": 177,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2018-01-02",
+        "checkout": "2021-01-13"
+    },
+    "additionalneeds": "Breakfast"
+}

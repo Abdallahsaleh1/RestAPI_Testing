@@ -1,0 +1,19 @@
+[{
+    "firstname": 77,
+    "lastname": "Jackson",
+    "totalprice": 237,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2016-10-07",
+        "checkout": "2018-03-06"
+    }
+},{
+    "firstname": 77,
+    "lastname": "Jackson",
+    "totalprice": 237,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2016-10-07",
+        "checkout": "2018-03-06"
+    }
+}]

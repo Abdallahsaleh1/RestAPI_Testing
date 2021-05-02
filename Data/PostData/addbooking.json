@@ -1,0 +1,11 @@
+{
+    "firstname": "abdallah",
+    "lastname": "saleh",
+    "totalprice": 666,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2017-11-10",
+        "checkout": "2021-02-23"
+    },
+    "additionalneeds": "lunch"
+}
