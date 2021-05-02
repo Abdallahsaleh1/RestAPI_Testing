@@ -201,7 +201,7 @@ public class RestClientHandler {
           conn.setUseCaches(false);
           conn.setRequestMethod("DELETE");
           conn.setRequestProperty("Content-Type", contentType.toString());
-          conn.setRequestProperty("Accept", "*/*");
+          conn.setRequestProperty("Accept", "application/json");
           conn.addRequestProperty("User-Agent", 
         		  "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)");
           conn.setRequestProperty("Accept-Language", "en-US,en;q=0.8");
