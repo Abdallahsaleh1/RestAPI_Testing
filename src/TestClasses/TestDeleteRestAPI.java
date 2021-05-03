@@ -51,8 +51,8 @@ public class TestDeleteRestAPI {
 			return connectionget;
 			}
 
-	//@Test
-	public void TestDeleteResponse() throws Exception {
+	@Test
+	public void TestDeleteExistId() throws Exception {
 		// 1. Open Connection --- HttpURLConnection
 		String url = URLs.BOOKING+"13";
 				
